@@ -8,3 +8,4 @@ add in ubuntu2
 add in ubuntu3
 add in windows2
 add in ubuntu4
+add for stash demo
