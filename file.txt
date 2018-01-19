@@ -22,5 +22,6 @@ fix bug4 in this branch
 fix bug5 in this branch
 fix bug6 in ubuntu
 fix bug7 for rebase
+fix bug8 for rebase
 
 
