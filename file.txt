@@ -17,4 +17,5 @@ add in new_branch_test
 fix bug in this branch
 fix bug1 in this branch
 fix bug2 in this branch
+fix bug3 in this master
 
