@@ -15,4 +15,5 @@ add for commit 2
 add for commit 3
 add in new_branch_test
 fix bug in this branch
+fix bug1 in this branch
 
