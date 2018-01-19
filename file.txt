@@ -20,4 +20,5 @@ fix bug2 in this branch
 fix bug3 in this master
 fix bug4 in this branch
 fix bug5 in this branch
+fix bug6 in ubuntu
 
